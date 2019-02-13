@@ -1,7 +1,7 @@
 # Create Windows Installer
 *Author: Jakkapan Jiranthorn*
 
-In TD Project, need to install several applications and every app has own config. So, it would be good to have pack them up.
+
 
 ##  Prerequisites
 - [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
