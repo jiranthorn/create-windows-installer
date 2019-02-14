@@ -5,7 +5,9 @@
 
 ##  Prerequisites
 - [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
-- [Microsoft Visual Studio Installer Projects Extention](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2017InstallerProjects)
+- [Microsoft Visual Studio Installer Projects Extention](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2017InstallerProjects) 
+  
+For Visual Studio 2015 use [Microsoft Visual Studio 2015 Installer Projects](https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2015InstallerProjects)
 
 
 ## Let's start
@@ -41,3 +43,12 @@
  8. After finished add files, folder, shortcuts, registries, build!
 
  ![alt](images/build.png)
+
+
+
+
+## References
+
+- For Windows 10 [Package desktop applications (Desktop Bridge)](https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-root)
+
+- [Visual Studio Installer Deployment](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/2kt85ked(v%3dvs.100))
